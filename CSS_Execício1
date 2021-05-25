@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> body{background-color: black;} div{
+  width: 100px;
+    background: white;
+    border: solid 14px yellow;
+    text-align: center;
+    padding: 20px 1px 1px;
+    font-size: 20px;
+    display: block;
+    margin: 10px auto;;
+  }
+
+</style>
+<body>
+  <div>Cícero</div>
+<div>Prático</div>
+<div>Heitor</div>
+</body>
+</body>
+</html>
